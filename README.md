@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi👋 I am Sarath 
+
+- 🔭 I’m a Flutter/React/Next.js Developer
+- 🌱 I’m currently learning Machine Learning, NLP and LLM Fine-tuning.
+- 👯 I’m looking to collaborate on ML/AI projects.
+- 📫 How to reach me: sarathj810@gmail.com
+- 😄 Pronouns: He/Him
 
 ![](https://komarev.com/ghpvc/?username=s4rath&color=green)
 
